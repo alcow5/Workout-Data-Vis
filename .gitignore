@@ -1,0 +1,35 @@
+# Data files (exclude personal workout data)
+*.csv
+*.xlsx
+*.xls
+
+# Cache directories
+opl_cache/
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment files
+.env
+.venv
+venv/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log
+
+# Temporary files
+temp_*
+debug_* 
