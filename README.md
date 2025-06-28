@@ -1,9 +1,10 @@
 # 💪 Powerlifting Data Analysis & Visualization Dashboard
 
 A comprehensive powerlifting training data analysis system with predictive analytics, competition integration, and beautiful visualizations.
+![workout_vis_ex1](https://github.com/user-attachments/assets/45e9d256-2438-48b3-8fbd-b3d69bd4ea24)
 ![workout_vis_ex3](https://github.com/user-attachments/assets/ea17da60-34e8-4437-9c83-4dfb311b808f)
 ![workout_vis_ex2](https://github.com/user-attachments/assets/824dea45-b5c7-4718-bfd3-d0ed6d2d0976)
-![workout_vis_ex1](https://github.com/user-attachments/assets/45e9d256-2438-48b3-8fbd-b3d69bd4ea24)
+
 
 ## 🌟 Features
 
